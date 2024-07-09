@@ -131,3 +131,17 @@
 .text{
     color: white;
 }
+.footer-section{
+    background-color: rgba(13, 19, 33, 0.03);
+}
+.footer-container{
+    max-width: 80%;
+    margin: auto;
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.icons{
+    display: flex;
+    gap: 16px;
+}
