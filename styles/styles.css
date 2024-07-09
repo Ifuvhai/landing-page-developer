@@ -32,3 +32,41 @@
 .banner-img{
     margin-top: 18px;
 }
+.about-content{
+    max-width: 70%;
+    text-align: center;
+    margin: 24px auto;
+    padding: 40px 0;
+}
+.about-container{
+    border-radius: 2px;
+    max-width: 80%;
+    margin: 80px auto;
+    background-color: rgba(13, 19, 33, 0.02);
+}
+.card-container{
+    border-radius: 2px;
+    background-color: white;
+    margin: 0 50px;
+    padding: 40px;
+}
+.about-card{
+    display: flex;
+    justify-content: space-around;
+}
+.card-title{
+    font-size: 28px;
+    margin: 14px 0;
+}
+.card-desc{
+    font-size: 16px;
+    margin: 14px 0;
+}
+.btn-card{
+    padding: 8px 14px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.about-img{
+    width: 160px;
+}
