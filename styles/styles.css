@@ -53,6 +53,7 @@
 .about-card{
     display: flex;
     justify-content: space-around;
+    gap: 60px;
 }
 .card-title{
     font-size: 28px;
@@ -69,4 +70,45 @@
 }
 .about-img{
     width: 160px;
+}
+.inspire-section{
+    max-width: 80%;
+    margin: auto;
+}
+.inspire-container{
+    max-width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+.ins-title{
+    margin: 20px 0;
+}
+.inspire-vdo{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.video{
+    border-radius: 4px;
+}
+.short-card-container{
+    display: flex;
+    gap: 20px;
+}
+.card{
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 4px;
+    padding: 35px;
+}
+.card2{
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 4px;
+    padding: 35px;
+}
+.card3{
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 4px;
+    padding: 35px;
+}
+.margin{
+    margin: 10px 0;
 }
