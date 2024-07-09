@@ -67,6 +67,7 @@
     padding: 8px 14px;
     border: 1px solid black;
     border-radius: 2px;
+    font-weight: 600;
 }
 .about-img{
     width: 160px;
@@ -111,4 +112,22 @@
 }
 .margin{
     margin: 10px 0;
+}
+.support-container{
+    border-radius: 4px;
+    background-image: url('../assets/handshake.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    margin: 60px 0;
+}
+.input{
+    width: 250px;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+}
+.text{
+    color: white;
 }
