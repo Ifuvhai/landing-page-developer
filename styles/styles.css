@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin: 0;
     padding: 0;
 }
 html{
     scroll-behavior: smooth;
+}
+.azeret-mono-normal{
+    font-family: sans-serif;
+    /* font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto; */
+    /* font-weight: <weight>;
+    font-style: normal; */
 }
 .nav-container{
     max-width: 80%;
