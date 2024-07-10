@@ -109,7 +109,9 @@ html{
     margin-bottom: 40px;
 }
 .video{
+    background-color: rgb(236, 240, 240);
     border-radius: 4px;
+    padding: 16px;
 }
 .short-card-container{
     display: flex;
